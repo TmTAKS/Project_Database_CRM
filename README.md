@@ -1,2 +1,3 @@
 # Project_Database_CRM
- Simple CRM System Simulation
+Project Database Sophomore
+Simple CRM System Simulation
